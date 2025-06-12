@@ -11,6 +11,10 @@ The tools that will be required to set up our EC2 instance and Minecraft Server:
 - OpenSSH
 - Python 3 (latest version)
 
+### Setting up the Pipeline
+
+### Credentials
+
 ## Terraform 
 
 

@@ -21,7 +21,7 @@ The tools that will be required to set up our EC2 instance and Minecraft Server:
 ## Ansible playbook
 
 ## How to connect to the Minecraft Server
-To log into the Minecraft server we will use the public IP address that was generated for our EC2 instance earlier. Follow the steps below:
+Once everything above has been completed to log into the Minecraft server we will use the public IP address that was generated for our EC2 instance earlier. Follow the steps below:
 - Launch Minecraft
 - Go to multiplayer
 - Click add server

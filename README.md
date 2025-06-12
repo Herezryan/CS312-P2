@@ -16,6 +16,8 @@ The tools that will be required to set up our EC2 instance and Minecraft Server:
 
 ### Credentials
 
+### Diagram
+
 ## Terraform 
 
 

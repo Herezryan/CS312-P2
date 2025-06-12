@@ -5,9 +5,9 @@ Our company is trying to get the employee Minecraft server up and running again 
 ## Requirements
 ### Tools
 The tools that will be required to set up our EC2 instance and Minecraft Server:
-- Terraform version 1.5 or later
-- Ansible version 2.14 or later
-- AWS CLI with configured profile
+- Terraform [Docs](https://developer.hashicorp.com/terraform)
+- Ansible [Docs](https://docs.ansible.com/)
+- AWS CLI [Docs](https://aws.amazon.com/cli/)
 - OpenSSH
 - Python 3 (latest version)
 
